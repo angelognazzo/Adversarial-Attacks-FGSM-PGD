@@ -8,3 +8,4 @@ It is designed to attack neural networks using gradients. The attack uses the gr
 <br/><br/>
 
 ## Projected Gradient Descent Attack Implementation
+PGD is a variant of FGSM applied iteratively with projection. It is a commonly used attack for adversarial training: training the network to be robust.
